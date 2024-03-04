@@ -1,24 +1,21 @@
 # R.Phuwanat
-## Front-End Website Developer
+## Full Stack Website Developer
 
 
 <br />
 
 
-I'm Front-End Website Developer from Bangkok Thailand. Self learner in
-developing website. I also have good responsive and user experience
-knowledge. Plus basic about Back-End, Data-Structure and Database. 1
-year experienced of many part-time remote work.
+Full Stack Website Developer from Bangkok Thailand.
 
 
 <br />
 
 
-### What I can do
-- Experienced on React and Vue
-- Basic knowledge about Java, Python, Node.js
-- Can make responsive website
-- Easy going with teams
+### Experiences
+- React.js
+- Node.js
+- PHP
+- C#
 
 
 <br />
@@ -32,7 +29,7 @@ year experienced of many part-time remote work.
 
 
 
-### My Working Stack
+### Stats
 
 [![R.Phuwanat's GitHub stats](https://github-readme-stats.vercel.app/api?username=pwnrrk)](https://github.com/anuraghazra/github-readme-stats)
 
